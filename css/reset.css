@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "NanumGothic", sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #121212;
+    display: block;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 0;
+    object-fit: cover;
+}
+
+body{
+    overflow-x:hidden;
+}
+
+button{
+    cursor:pointer;
+    border:0;
+    background:none;
+}
